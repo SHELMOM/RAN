@@ -1,6 +1,6 @@
 # RAN
 
-my second repO
+my second repo
 <br>
 author - (gaurav singh)
 today is 17 of august
